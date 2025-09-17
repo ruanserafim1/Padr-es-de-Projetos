@@ -1,10 +1,9 @@
-hidrometro_simulator/
-├── main.cpp
-├── Hidrometro.h
-├── Hidrometro.cpp
-├── LeitorArquivo.h
-├── LeitorArquivo.cpp
-├── GeradorImagem.h
-├── GeradorImagem.cpp
-├── dados_consumo.txt
-└── Makefile
+HidrometroQt/
+ ├── CMakeLists.txt
+ └── src/
+     ├── main.cpp
+     ├── Fluxo.h / Fluxo.cpp
+     ├── Medicao.h / Medicao.cpp
+     ├── Hidrometro.h / Hidrometro.cpp
+     ├── HidrometroApp.h / HidrometroApp.cpp
+     └── hidrometro1.png
