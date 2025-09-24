@@ -1,9 +1,0 @@
-HidrometroQt/
- ├── CMakeLists.txt
- └── src/
-     ├── main.cpp
-     ├── Fluxo.h / Fluxo.cpp
-     ├── Medicao.h / Medicao.cpp
-     ├── Hidrometro.h / Hidrometro.cpp
-     ├── HidrometroApp.h / HidrometroApp.cpp
-     └── hidrometro1.png
